@@ -1,3 +1,4 @@
+
 --------- Already studied------------
 
 https://www.javatpoint.com/java-oops-concepts
@@ -14,3 +15,8 @@ https://www.javatpoint.com/object-and-class-in-java
 https://www.javatpoint.com/java-if-else
 
 https://www.javatpoint.com/java-for-loop
+
+https://www.javatpoint.com/difference-between-jdk-jre-and-jvm
+
+
+
