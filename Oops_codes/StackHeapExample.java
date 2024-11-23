@@ -14,6 +14,7 @@ public class StackHeapExample {
     Calculator cal=new Calculator();
     int a=10;
     int b=20;
+    System.out.println(num);
     int d=cal.add(a, b);
     System.out.println(d);
   }
