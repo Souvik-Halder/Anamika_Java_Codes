@@ -1,7 +1,4 @@
 package Array;
-
-
-
 public class ArrayBasic {
     public static void main(String[] args) {
         /*
