@@ -16,11 +16,11 @@ Secqunse wise task
   - break -> 15 min
   - Oops interface -> 30 min
   - TCS NQT 1.4 -> 1h 35 min
-  - beak 15 min
+  - beak 15 min / Dupurer ghum
   - https://www.w3schools.com/sql/sql_and.asp -> 15 min
   - https://www.w3schools.com/sql/sql_or.asp -> 15 min
   - TCS NQT Reasoning Ability - 1.2 - 1.4 -> 50 min
-  - break 15 min / Dupurer ghum
+  - break 15 min 
   - https://www.w3schools.com/sql/sql_not.asp -> 15 min
   - https://www.w3schools.com/sql/sql_insert.asp -> 15 min
   - ML project new project banate hobe
