@@ -20,9 +20,9 @@ Secqunse wise task
   - TCS NQT 1.4 Data Interpretation -> 1h 26 min
   - Dupurer ghum
   - TCS NQT Reasoning Ability - 2.8 - 2.10 -> 1hr
-  - https://www.w3schools.com/sql/sql_null_values.asp
-  - https://www.w3schools.com/sql/sql_update.asp
-  - break 15 min 
+  - https://www.w3schools.com/sql/sql_null_values.asp - 15 min
+  - https://www.w3schools.com/sql/sql_update.asp - 15 min
+  - Direct Class
   - TCS NQT Verbal Ability - 3.1 Reading comprehension - 1hr 21 min
   - ML project new project banate hobe
   - ML revision
