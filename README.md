@@ -14,6 +14,7 @@ Daily Task Update
 
 Secqunse wise task 
   - TCS NQT 1.3 Arithmetic -> 1 hrs
+  - Oops  ->  30 min
   - break -> 15 min
   - Oops  ->  30 min
   - TCS NQT 1.4 Data Interpretation -> 1h 26 min
