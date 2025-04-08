@@ -1,0 +1,5 @@
+  or a == "A"
+        or a == "I"
+        or a == "O"
+        or a == "E"
+        or a == "U"
